@@ -1,2 +1,7 @@
-# node-tdd-course
-Cursos de TDD com Node
+# TDD com Node
+
+Curso de TDD com Node
+
+```
+Curso ministrado pelo professor Mateus Fernandes no youtube
+```
